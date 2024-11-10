@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img width="200px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iiagyctc56sw2fdl2vzecxod4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify profile" />
+    <img width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iiagyctc56sw2fdl2vzecxod4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify profile" />
   </a>
 </div>
 
