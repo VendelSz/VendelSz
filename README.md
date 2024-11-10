@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="300" src="https://media.discordapp.net/attachments/836688410667647066/978676000718221373/doobie.gif?ex=67321e0d&is=6730cc8d&hm=b2fc2e0b1ff8a55d4bab29b665679d78f45f7d6a4cc27229ffae7b9401f81d1d&"  />
 
 ###
 
@@ -43,6 +43,14 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/VendelSz/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img width="200px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iiagyctc56sw2fdl2vzecxod4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify profile" />
+  </a>
 </div>
 
 ###
