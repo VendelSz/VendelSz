@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.discordapp.net/attachments/590309294629715979/733968564717092894/image0.gif?ex=6731c4fe&is=6730737e&hm=970d2ec8689eebb49c4dc303b0c2d9682d0dbca8828d468491eaba360c277f5a&"  />
+<img align="right" height="500" src="https://media.discordapp.net/attachments/590309294629715979/733968564717092894/image0.gif?ex=6731c4fe&is=6730737e&hm=970d2ec8689eebb49c4dc303b0c2d9682d0dbca8828d468491eaba360c277f5a&"  />
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img width="200px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iiagyctc56sw2fdl2vzecxod4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify profile" />
   </a>
