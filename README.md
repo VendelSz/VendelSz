@@ -5,11 +5,11 @@
 
 ###
 
-<img align="right" height="250" src="https://media.discordapp.net/attachments/836688410667647066/978676000718221373/doobie.gif?ex=67321e0d&is=6730cc8d&hm=b2fc2e0b1ff8a55d4bab29b665679d78f45f7d6a4cc27229ffae7b9401f81d1d&"  />
+<img align="right" height="250" src="[https://media.discordapp.net/attachments/836688410667647066/978676000718221373/doobie.gif?ex=67321e0d&is=6730cc8d&hm=b2fc2e0b1ff8a55d4bab29b665679d78f45f7d6a4cc27229ffae7b9401f81d1d&](https://tenor.com/bVz6G.gif)"  />
 
 ###
 
-<img align="left" height="250" src="https://media.discordapp.net/attachments/590309294629715979/733968564717092894/image0.gif?ex=6731c4fe&is=6730737e&hm=970d2ec8689eebb49c4dc303b0c2d9682d0dbca8828d468491eaba360c277f5a&"  />
+<img align="left" height="250" src="[https://media.discordapp.net/attachments/590309294629715979/733968564717092894/image0.gif?ex=6731c4fe&is=6730737e&hm=970d2ec8689eebb49c4dc303b0c2d9682d0dbca8828d468491eaba360c277f5a&](https://tenor.com/oEFtQOOEJCY.gif)"  />
 
 ###
 
