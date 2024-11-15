@@ -5,11 +5,11 @@
 
 ###
 
-<img align="right" height="250" src="https://tenor.com/bVz6G.gif"  />
+<img align="right" height="250" src="(https://tenor.com/bVz6G.gif)"  />
 
 ###
 
-<img align="left" height="250" src="https://tenor.com/bVz6G.gif"  />
+<img align="left" height="250" src="(https://tenor.com/bVz6G.gif)"  />
 
 ###
 
